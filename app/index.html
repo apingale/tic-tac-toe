@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="css/game.css" type="text/css" media="screen" charset="utf-8">
+</head>
+
+<body>
+    <title> Tic Tac Toe Game </title>
+    <div class="topbuffer"></div>
+    <h2 align="center"> Tic Tac Toe Game </h2>
+    <h2 align ="center" class="name"><input type="text" id="playerName" placeholder="Enter your name here..."></h2>
+    <div class="wrapper" id="actionPanel">
+        <h3 align="center" class="turn"></h3>
+        <button class="btn btn-primary" id="restart">Restart Board </button>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm" id="symbolButton">Pick a Symbol</button>
+        <button type="button" class="btn btn-primary" id="startGame">Start Game</button>
+    </div>
+    <div id="gridboard">
+    </div>
+
+    <script src="js/jquery.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/WebSocketManager.js" type="text/javascript" charset="utf-8"></script>    
+    <script src="js/underscore.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/backbone.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js//views/action-panel.view.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/views/grid-board.view.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/enums/game-status.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/models/game.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/models/player.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/App.js" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/template" id="grid">
+        <div class="container">
+            <div class="Board">
+                <table id="board">
+                    <tr>
+                        <td align="center" data-board="1" id="square1"></td>
+                        <td align="center" data-board="2" id="square2"></td>
+                        <td align="center" data-board="3" id="square3"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" data-board="4" id="square4"></td>
+                        <td align="center"data-board="5" id="square5"></td>
+                        <td align="center" data-board="6" id="square6"></td>
+                    </tr>
+                    <tr>
+                        <td align="center" data-board="7" id="square7"></td>
+                        <td align="center" data-board="8" id="square8"></td>
+                        <td align="center" data-board="9" id="square9"></td>
+                    </tr>
+                </table>
+                <!-- end of row -->
+            </div>
+            <!-- end of board -->
+        </div>
+    </script>
+
+    <script type="text/template" id="cross">
+        <span class="symbols">X</span></script>
+    <script type="text/template" id="oval">
+            <span class="symbols">O</span></script>
+
+    <!-- <div id="dialog" title="Pick Symbol">
+        <p>Pick your symbol</p>
+        <button type ="button" class ="btn btn-primary" >X</button>
+        <button type ="button" class ="btn btn-primary" >O</button>
+    </div> -->
+</body>
+
+</html>

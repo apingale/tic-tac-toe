@@ -1,0 +1,33 @@
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.deps.json
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.json
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.dev.json
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.dll
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.pdb
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csprojAssemblyReference.cache
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csproj.CoreCompileInputs.cache
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfoInputs.cache
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfo.cs
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.dll
+E:\Code\My tic tac toe game\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.pdb
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.deps.json
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.json
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.dev.json
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.dll
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.pdb
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csproj.CoreCompileInputs.cache
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfoInputs.cache
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfo.cs
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.dll
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.pdb
+D:\study\Backbone\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csprojAssemblyReference.cache
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.deps.json
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.json
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.runtimeconfig.dev.json
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.dll
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\bin\Debug\netcoreapp2.0\TicTacToeApp.pdb
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csprojAssemblyReference.cache
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.csproj.CoreCompileInputs.cache
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfoInputs.cache
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.AssemblyInfo.cs
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.dll
+E:\Code\TicTacToe\TicTacToe\TicTacToeApp\obj\Debug\netcoreapp2.0\TicTacToeApp.pdb

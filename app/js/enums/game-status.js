@@ -1,0 +1,1 @@
+var GameStatus = Object.freeze({"New":0, "Won":1, "Loss":2, "Draw":3});
